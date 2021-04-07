@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"tamagohis.game","l":"tamagoshis"},{"m":"tamagohis.game","l":"tamagoshis.graphics"}];updateSearchResults();
